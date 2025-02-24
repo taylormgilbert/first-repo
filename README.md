@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taylormgilbert/first-repo/HEAD)
 # first-repo
 Learning to tidy data
 This dataset comes from https://www.kaggle.com/datasets/amulyas/penguin-size-dataset?resource=download, and is owned by @amulyas on Kaggle. It has a MIT licence, but is open access and free to be used and published. The data are observations of penguin species and dimesions from different islands. Data were most likely collected by means ofexeprct observations (species), digital calipers (culmen length and depth), a flexible tape measure (flipper length), and a spring scale (body mass). 
